@@ -32,6 +32,7 @@ Una vez obtenidos los cuatro cuadros definitivos de la IA, el proyecto se trasla
 
 Paso 3: Configuración del Espacio de Trabajo (Grease Pencil)
 Descripción: Se abrió un proyecto nuevo en Blender utilizando la plantilla 2D Animation. Esta interfaz optimiza el programa para trabajar en dos dimensiones, configurando la cámara de manera ortogonal y activando el motor de renderizado Eevee.
+<img width="256" height="513" alt="image" src="https://github.com/user-attachments/assets/7e520422-1c29-4139-b92b-80bdea8e185a" />
 
 Importación de Referencias: Las imágenes numeradas generadas por la IA se importaron al espacio 3D utilizando la función Images as Planes (o como vacíos de referencia de imagen). Se alinearon secuencialmente detrás del lienzo de dibujo para utilizarlas como plantillas físicas de fondo, ajustando la opacidad al 50% (efecto papel cebolla digital).
 
